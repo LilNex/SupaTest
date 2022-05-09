@@ -1,0 +1,32 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:25475",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml5cW1oanhxanR3cnFsYWx1anRpIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTIwODQ5MDgsImV4cCI6MTk2NzY2MDkwOH0.keTv2CTmihKNvnK31MMcW6hCJvReab7XoXQGZ4jyz5M",
+        "SUPABASE_URL": "https://iyqmhjxqjtwrqlalujti.supabase.co"
+      }
+    },
+    "SupaTest": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml5cW1oanhxanR3cnFsYWx1anRpIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTIwODQ5MDgsImV4cCI6MTk2NzY2MDkwOH0.keTv2CTmihKNvnK31MMcW6hCJvReab7XoXQGZ4jyz5M",
+        "SUPABASE_URL": "https://iyqmhjxqjtwrqlalujti.supabase.co"
+      }
+    }
+  }
+}
